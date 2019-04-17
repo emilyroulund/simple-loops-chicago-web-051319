@@ -9,7 +9,7 @@
   #  phrase and break when the counter hits the appropriate number...
   
 def loop_iterator(number_of_times)
-
+ phrase = "Welcome to Flatiron School's Web Development Course!"
 end
 
 def times_iterator(number_of_times)
